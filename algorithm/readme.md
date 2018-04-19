@@ -5,3 +5,6 @@
  [2.主成分分析](https://wenqing02.github.io/me/2018/01/17/%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90.html)
 
  [3.卷积神经网络](https://wenqing02.github.io/me/2018/03/19/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.html)
+
+ [4.风格迁移](https://www.jianshu.com/p/4acab39a3f47)
+
