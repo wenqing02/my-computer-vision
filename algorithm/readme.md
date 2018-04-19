@@ -8,3 +8,6 @@
 
  [4.风格迁移](https://www.jianshu.com/p/4acab39a3f47)
 
+ [5.方向梯度直方图](https://www.jianshu.com/p/06a738f6af3d)
+  
+  
